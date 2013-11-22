@@ -1,5 +1,5 @@
 <?php
-include_once 'inc/data.h';
+include_once 'inc/data.php';
 
 $data=new CData();
 //example public
