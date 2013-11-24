@@ -37,7 +37,7 @@ class CData {
 	protected $http		=	"https://";
 	protected $https	=	"https://";
 	protected $apidir	=	'/api';
-	protected static $currencies=	array('ANC','BTC','DGC','DVC','FRC','FTC','I0C','IXC','LTC','NMC','NVC','PPC','TRC','WDC','XPM');
+	public static $currencies=	array('USD','EUR','ANC','BTC','DGC','DVC','FRC','FTC','I0C','IXC','LTC','NMC','NVC','PPC','TRC','WDC','XPM');
 	/**
 	 * public api names
 	 * @var array
